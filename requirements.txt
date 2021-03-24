@@ -1,4 +1,4 @@
 pyasn1==0.4.8
 pycrypto==2.6.1
 pyDes==2.0.1
-rsa==4.0
+rsa==4.1
